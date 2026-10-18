@@ -68,7 +68,7 @@ You create a payment link → Send URL to customer → Customer scans QR → Pay
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/akbarr13/bayaraja.git
+git clone https://github.com/heimalingpangsit/bayaraja.git
 cd bayaraja
 npm install
 ```
